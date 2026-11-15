@@ -34,8 +34,8 @@ form { display: flex; flex-direction: column; }
 form label { margin: 14px 0 7px; font-weight: 650; font-size: .92rem; }
 input, select { min-height: 45px; width: 100%; border: 1px solid #c8d5df; background: white; border-radius: 9px; padding: 10px 12px; color: var(--navy); font: inherit; }
 input:focus, select:focus, button:focus-visible { outline: 3px solid #94d6d0; outline-offset: 2px; }
-.primary-btn { margin-top: 22px; min-height: 46px; border: 0; border-radius: 9px; color: white; background: var(--teal); cursor: pointer; font-weight: 750; font-size: .96rem; }
-.primary-btn:hover { background: #0e736b; }
+.primary-btn { margin-top: 22px; min-height: 46px; border: 0; border-radius: 9px; color: white; background: #2f5fd0; cursor: pointer; font-weight: 750; font-size: .96rem; }
+.primary-btn:hover { background: #244aa8; }
 .feedback { color: #08766b; min-height: 1.3em; font-size: .85rem; }
 .list-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; }
 .filter-label { display: flex; flex-direction: column; gap: 4px; font-weight: 650; font-size: .86rem; width: 135px; }
